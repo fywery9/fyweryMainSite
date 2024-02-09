@@ -2,7 +2,7 @@
      font-family:sans-serif;
      font-size: 18px;
 
-     background-color: rgba(255, 200, 180, 0.35);
+     background-color: rgba(0, 255, 80, 0.2);
      display: flex;
      margin: 20px;
  }
@@ -32,13 +32,13 @@ li > img {
 }
 
 a {
-    color: darkgoldenrod;
+    color: #009632;
     text-decoration: none;
 }
 
 
 a:hover {
-    color: saddlebrown;
+    color: #003214;
     text-decoration: underline;
 }
 
@@ -47,6 +47,7 @@ a:hover {
  }
 
  main {
+     margin: auto;
      border-radius: 3px;
      background-color: aliceblue;
      padding-top: 20px;
