@@ -13,7 +13,8 @@ h1 {
 }
 
 h2 {
-  margin-top: 40px;
+  margin-top: 20px;
+    margin-bottom: -15px;
 }
 
 ul {
@@ -50,11 +51,9 @@ a:hover {
  main {
      margin: auto;
      border-radius: 7px;
-     background-color: aliceblue;
-     padding-top: 20px;
+     background-color: #e8fff4;
      padding-right: 30px;
-     padding-left: 20px;
-     padding-bottom: 30px;
+     padding-left: 30px;
  }
 
  .shadow {
