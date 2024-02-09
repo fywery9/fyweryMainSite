@@ -1,10 +1,11 @@
  body {
      font-family:sans-serif;
      font-size: 18px;
+     line-height: 1.5;
 
      background-color: rgba(0, 255, 80, 0.2);
      display: flex;
-     margin: 20px;
+     margin: 50px;
  }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 }
 
 h2 {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 ul {
@@ -48,14 +49,12 @@ a:hover {
 
  main {
      margin: auto;
-     border-radius: 3px;
+     border-radius: 7px;
      background-color: aliceblue;
      padding-top: 20px;
      padding-right: 30px;
      padding-left: 20px;
      padding-bottom: 30px;
-
-
  }
 
  .shadow {
